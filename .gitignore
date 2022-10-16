@@ -1,0 +1,7 @@
+# IDE settings
+.idea
+.vscode
+.fleet
+
+# JS node_modules etc
+node_modules/
