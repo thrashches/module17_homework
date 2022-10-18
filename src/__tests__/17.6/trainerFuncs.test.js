@@ -1,4 +1,4 @@
-import { getPercents } from "../trainerFuncs";
+import { getPercents } from "../../17.6/trainerFuncs";
 
 describe("Тестирование функции процента от числа.", () => {
   it("30 процентов от 200 это 60", () => {

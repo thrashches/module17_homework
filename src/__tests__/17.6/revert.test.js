@@ -1,4 +1,4 @@
-const revert = require("../revert");
+const revert = require("../../17.6/revert");
 
 test("Из строки hello получится olleh.", () => {
   expect(revert("hello")).toBe("olleh");
